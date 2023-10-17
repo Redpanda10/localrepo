@@ -10,6 +10,8 @@ int main(){
     cout<<"The sum of 2 and 4 is"<<endl<<add(2,4);
     cout<<endl<<"The sum of 2.4564 and 4.00 is"<<endl<<add(2.4564,4.00);
     cout<<endl<<"this is the use of template";
+    cout<<endl<<"The sum of a and a is"<<add('a','a');
+    cout<<endl <<"Does it adds the sum of strings";
     
 
 }
